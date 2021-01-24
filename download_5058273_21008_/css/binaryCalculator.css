@@ -1,0 +1,26 @@
+.container {
+  width: 33%;
+  padding: 5px;
+  background-color: gray;
+}
+
+.container  .result {
+  width: 100%;
+  background-color: lightgray;
+  border: 1px solid;
+  height: 48px;
+  font-size: 20px;
+  padding: 0
+}
+.container  .buttonContainer {
+  width: 100%;
+}
+
+.container  .buttonContainer  .buttonClass {
+  width: 25%;
+  height: 36px;
+  font-size: 18px;
+  margin: 0;
+  float: left;
+  padding: 0;
+}
